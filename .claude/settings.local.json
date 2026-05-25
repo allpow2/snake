@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pyinstaller --noconsole --onefile --name \"Snake\" --clean main.py)"
+    ]
+  }
+}
